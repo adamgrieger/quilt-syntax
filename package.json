@@ -1,7 +1,7 @@
 {
   "name": "quilt-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A comfy, muted syntax theme for Atom.",
   "repository": "https://github.com/adamgrieger/quilt-syntax",
   "license": "MIT",
