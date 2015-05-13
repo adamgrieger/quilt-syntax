@@ -11,31 +11,31 @@ This theme was created using [Allen Bargi's](https://github.com/aziz) awesome [t
 All example code shown below was captured from his color scheme editor as well.
 
 ## CoffeeScript
-![CoffeeScript](examples/QuiltCoffeescript.png)
+![CoffeeScript](http://i.imgur.com/BiXNBTi.png)
 
 ## CSS
-![CSS](examples/QuiltCSS.png)
+![CSS](http://i.imgur.com/eIkKjBh.png)
 
 ## HTML
-![HTML](examples/QuiltHTML.png)
+![HTML](http://i.imgur.com/8BzitsC.png)
 
 ## Java
-![Java](examples/QuiltJava.png)
+![Java](http://i.imgur.com/YZtt5PF.png)
 
 ## JavaScript
-![JavaScript](examples/QuiltJavascript.png)
+![JavaScript](http://i.imgur.com/HJwnmXW.png)
 
 ## Perl
-![Perl](examples/QuiltPerl.png)
+![Perl](http://i.imgur.com/oN0wol1.png)
 
 ## PHP
-![PHP](examples/QuiltPHP.png)
+![PHP](http://i.imgur.com/L6i8kBX.png)
 
 ## Python
-![Python](examples/QuiltPython.png)
+![Python](http://i.imgur.com/Y6eqTVc.png)
 
 ## Ruby
-![Ruby](examples/QuiltRuby.png)
+![Ruby](http://i.imgur.com/2Yv4fwR.png)
 
 ## License
     The MIT License (MIT)
